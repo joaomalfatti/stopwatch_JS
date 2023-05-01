@@ -1,0 +1,7 @@
+const MinutesE1 = document.querySelector("#minutes")
+const Seconds = document.querySelector("#seconds")
+const Miliseconds = document.querySelector("#miliseconds")
+const startBtn = document.querySelector("#startBtn")
+const pauseBtn = document.querySelector("#pauseBtn")
+const resumeBtn = document.querySelector("#resumeBtn")
+const resetBtn = document.querySelector("#resetBtn")
