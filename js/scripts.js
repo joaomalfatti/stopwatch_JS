@@ -10,3 +10,4 @@ let minutes = 0;
 let seconds = 0;
 let miliseconds = 0;
 let isPaused = false;
+let interval;
