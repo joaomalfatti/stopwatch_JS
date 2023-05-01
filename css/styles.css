@@ -70,3 +70,17 @@
 #pauseBtn, #resumeBtn {
   display: none;
 }
+#pauseBtn {
+  background-color: brown;
+  color: #fff;
+}
+#resumeBtn {
+  background-color: green;
+  color: #fff;
+}
+
+#resetBtn {
+  background-color: yellow;
+  color: black;
+
+}
